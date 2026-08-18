@@ -8,18 +8,18 @@ Desenvolvedora em constante aprendizado, apaixonada por tecnologia e motivada pe
 
 ### ⭒⌨️𑁤 Linguagens e Ferramentas
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/C-fffaa3?style=for-the-badge&logo=c&logoColor=yellow)
+![VS Code](https://img.shields.io/badge/VS%20Code-00CEC9?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-89CFF0?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-cbf5c9?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### ᯓ✧ Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuellacarvalho1&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuellacarvalho1&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuellacarvalho1&show_icons=true&hide_border=true&bg_color=00000000&title_color=b4f0ea&text_color=2f3640&icon_color=f8cafa&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuellacarvalho1&layout=compact&hide_border=true&bg_color=00000000&title_color=b4f0ea&text_color=f8cafa&icon_color=f8cafa" />
 </div>
 
 ---
@@ -36,5 +36,5 @@ Desenvolvedora em constante aprendizado, apaixonada por tecnologia e motivada pe
 
 ### 🌐 Conecte-se comigo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuella-carvalho-a81a203b2)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuellacarvalholiv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-74B9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuella-carvalho-a81a203b2)
+[![Gmail](https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuellacarvalholiv@gmail.com)
