@@ -9,6 +9,7 @@ Desenvolvedora em constante aprendizado, apaixonada por tecnologia e motivada pe
 ### ⭒⌨️𑁤 Linguagens e Ferramentas
 
 ![C](https://img.shields.io/badge/C-fffaa3?style=for-the-badge&logo=c&logoColor=yellow)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-00CEC9?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-89CFF0?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-cbf5c9?style=for-the-badge&logo=github&logoColor=white)
@@ -18,8 +19,8 @@ Desenvolvedora em constante aprendizado, apaixonada por tecnologia e motivada pe
 ### ᯓ✧ Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuellacarvalho1&show_icons=true&hide_border=true&bg_color=00000000&title_color=b4f0ea&text_color=2f3640&icon_color=f8cafa&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuellacarvalho1&layout=compact&hide_border=true&bg_color=00000000&title_color=b4f0ea&text_color=f8cafa&icon_color=f8cafa" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manuellacarvalho1&show_icons=true&hide_border=true&bg_color=00000000&title_color=b4f0ea&text_color=2f3640&icon_color=f8cafa&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuellacarvalho1&layout=compact&hide_border=true&bg_color=00000000&title_color=b4f0ea&text_color=f8cafa&icon_color=f8cafa" />
 </div>
 
 ---
